@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitForP4", "GitForP4.csproj", "{729F7916-363C-4183-BEAF-1372F4274C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development 2019|Any CPU = Development 2019|Any CPU
+		Release 2019|Any CPU = Release 2019|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729F7916-363C-4183-BEAF-1372F4274C8F}.Development 2019|Any CPU.ActiveCfg = Development 2019|Any CPU
+		{729F7916-363C-4183-BEAF-1372F4274C8F}.Development 2019|Any CPU.Build.0 = Development 2019|Any CPU
+		{729F7916-363C-4183-BEAF-1372F4274C8F}.Release 2019|Any CPU.ActiveCfg = Release 2019|Any CPU
+		{729F7916-363C-4183-BEAF-1372F4274C8F}.Release 2019|Any CPU.Build.0 = Release 2019|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E0D614-4587-4982-AB31-210AF16A4317}
+	EndGlobalSection
+EndGlobal

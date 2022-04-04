@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="1cfc039b-e057-4c33-aacc-9c41875a92a8" Version="1.0" Language="en-US" Publisher="Cadic AB" />
+        <DisplayName>Git for P4</DisplayName>
+        <Description xml:space="preserve">Makes P4 easier to use by letting you use git as the day-to-day SCC instead. Then just resolve and submit with P4 when you are done.</Description>
+        <MoreInfo>https://github.com/temaran/GitForP4/#readme</MoreInfo>
+        <License>LICENSE</License>
+        <GettingStartedGuide>https://github.com/temaran/GitForP4/#readme</GettingStartedGuide>
+        <Icon>Resources\Icon.png</Icon>
+        <Tags>command run save</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0,)">
+        </InstallationTarget>
+    </Installation>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[12.0,18.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>

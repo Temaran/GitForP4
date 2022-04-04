@@ -1,0 +1,8 @@
+# Build dirs
+.out/
+.tmp/
+.vs/
+out/
+
+# File types
+*.htm
